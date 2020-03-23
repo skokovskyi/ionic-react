@@ -1,6 +1,0 @@
-Installation
-  npm install -g @ionic/cli
-  ionic start
-
-Versions
-  ionic cli 6.3.0
